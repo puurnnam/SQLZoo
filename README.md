@@ -1,0 +1,2 @@
+# SQLZoo
+SQL queries
